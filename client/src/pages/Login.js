@@ -94,7 +94,7 @@ function Login() {
                 {/* <br/> */}
 
                 {/* <GoogleLogin 
-                clientId="" 
+                clientId="a" 
                 render={(renderProps) => (
                     <MDBBtn style={{width:"100%"}}  
                     color="danger" 
