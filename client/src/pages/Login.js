@@ -94,7 +94,7 @@ function Login() {
                 {/* <br/> */}
 
                 {/* <GoogleLogin 
-                clientId="55144607704-9b857eim1h88bg044fr8pdvbgecaup3j.apps.googleusercontent.com" 
+                clientId="" 
                 render={(renderProps) => (
                     <MDBBtn style={{width:"100%"}}  
                     color="danger" 
